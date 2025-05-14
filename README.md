@@ -1,8 +1,8 @@
 # Modern Dot Net Api
 
-> This is a clean, modular, and production-ready ASP.NET Core Web API template built with best practices in mind.  
-> It uses the latest .NET 8 and C# 12 features, supports a layered architecture, and integrates popular tools like EF Core, AutoMapper, FluentValidation, Serilog, Docker, and Health Checks.  
-> Ideal for rapid backend API development with maintainability and testability.
+This is a clean, modular, and production-ready ASP.NET Core Web API template built with best practices in mind.  
+It uses the latest .NET 8 and C# 12 features, supports a layered architecture, and integrates popular tools like EF Core, AutoMapper, FluentValidation, Serilog, Docker, and Health Checks.  
+Ideal for rapid backend API development with maintainability and testability.
 
 [![.NET](https://img.shields.io/badge/.NET-8-blueviolet.svg)](https://dotnet.microsoft.com/)
 [![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
