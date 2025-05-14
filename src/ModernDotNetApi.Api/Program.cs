@@ -24,7 +24,10 @@ builder.Host.UseSerilog();
 
 // Add EF Core (SQL Server)
 builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"), sql =>
+    {
+        sql.EnableRetryOnFailure(); // helps with transient errors like cold startup
+    }));
 
 // Repository Pattern
 builder.Services.AddScoped<IApiEntryRepository, ApiEntryRepository>();
