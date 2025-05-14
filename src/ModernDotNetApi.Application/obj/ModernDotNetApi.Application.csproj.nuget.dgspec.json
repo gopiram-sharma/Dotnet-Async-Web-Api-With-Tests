@@ -1,0 +1,227 @@
+{
+  "format": 1,
+  "restore": {
+    "/workspaces/modern-dotnet-api/src/ModernDotNetApi.Application/ModernDotNetApi.Application.csproj": {}
+  },
+  "projects": {
+    "/workspaces/modern-dotnet-api/src/ModernDotNetApi.Application/ModernDotNetApi.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/workspaces/modern-dotnet-api/src/ModernDotNetApi.Application/ModernDotNetApi.Application.csproj",
+        "projectName": "ModernDotNetApi.Application",
+        "projectPath": "/workspaces/modern-dotnet-api/src/ModernDotNetApi.Application/ModernDotNetApi.Application.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/modern-dotnet-api/src/ModernDotNetApi.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/workspaces/modern-dotnet-api/src/ModernDotNetApi.Domain/ModernDotNetApi.Domain.csproj": {
+                "projectPath": "/workspaces/modern-dotnet-api/src/ModernDotNetApi.Domain/ModernDotNetApi.Domain.csproj"
+              },
+              "/workspaces/modern-dotnet-api/src/ModernDotNetApi.Infrastructure/ModernDotNetApi.Infrastructure.csproj": {
+                "projectPath": "/workspaces/modern-dotnet-api/src/ModernDotNetApi.Infrastructure/ModernDotNetApi.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/workspaces/modern-dotnet-api/src/ModernDotNetApi.Domain/ModernDotNetApi.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/workspaces/modern-dotnet-api/src/ModernDotNetApi.Domain/ModernDotNetApi.Domain.csproj",
+        "projectName": "ModernDotNetApi.Domain",
+        "projectPath": "/workspaces/modern-dotnet-api/src/ModernDotNetApi.Domain/ModernDotNetApi.Domain.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/modern-dotnet-api/src/ModernDotNetApi.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/workspaces/modern-dotnet-api/src/ModernDotNetApi.Infrastructure/ModernDotNetApi.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/workspaces/modern-dotnet-api/src/ModernDotNetApi.Infrastructure/ModernDotNetApi.Infrastructure.csproj",
+        "projectName": "ModernDotNetApi.Infrastructure",
+        "projectPath": "/workspaces/modern-dotnet-api/src/ModernDotNetApi.Infrastructure/ModernDotNetApi.Infrastructure.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/modern-dotnet-api/src/ModernDotNetApi.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/workspaces/modern-dotnet-api/src/ModernDotNetApi.Domain/ModernDotNetApi.Domain.csproj": {
+                "projectPath": "/workspaces/modern-dotnet-api/src/ModernDotNetApi.Domain/ModernDotNetApi.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

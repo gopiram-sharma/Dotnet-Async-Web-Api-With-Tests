@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1DbbaioxhmR/flC0sh+TvLwAIeWnkI/c1KVlRU58sQY=",
+  "Source": "ModernDotNetApi.Api",
+  "BasePath": "_content/ModernDotNetApi.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

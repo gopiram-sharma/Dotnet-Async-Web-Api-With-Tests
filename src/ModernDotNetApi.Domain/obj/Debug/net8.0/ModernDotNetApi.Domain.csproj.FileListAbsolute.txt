@@ -1,0 +1,12 @@
+/workspaces/modern-dotnet-api/src/ModernDotNetApi.Domain/bin/Debug/net8.0/ModernDotNetApi.Domain.deps.json
+/workspaces/modern-dotnet-api/src/ModernDotNetApi.Domain/bin/Debug/net8.0/ModernDotNetApi.Domain.dll
+/workspaces/modern-dotnet-api/src/ModernDotNetApi.Domain/bin/Debug/net8.0/ModernDotNetApi.Domain.pdb
+/workspaces/modern-dotnet-api/src/ModernDotNetApi.Domain/obj/Debug/net8.0/ModernDotNetApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/modern-dotnet-api/src/ModernDotNetApi.Domain/obj/Debug/net8.0/ModernDotNetApi.Domain.AssemblyInfoInputs.cache
+/workspaces/modern-dotnet-api/src/ModernDotNetApi.Domain/obj/Debug/net8.0/ModernDotNetApi.Domain.AssemblyInfo.cs
+/workspaces/modern-dotnet-api/src/ModernDotNetApi.Domain/obj/Debug/net8.0/ModernDotNetApi.Domain.csproj.CoreCompileInputs.cache
+/workspaces/modern-dotnet-api/src/ModernDotNetApi.Domain/obj/Debug/net8.0/ModernDotNetApi.Domain.sourcelink.json
+/workspaces/modern-dotnet-api/src/ModernDotNetApi.Domain/obj/Debug/net8.0/ModernDotNetApi.Domain.dll
+/workspaces/modern-dotnet-api/src/ModernDotNetApi.Domain/obj/Debug/net8.0/refint/ModernDotNetApi.Domain.dll
+/workspaces/modern-dotnet-api/src/ModernDotNetApi.Domain/obj/Debug/net8.0/ModernDotNetApi.Domain.pdb
+/workspaces/modern-dotnet-api/src/ModernDotNetApi.Domain/obj/Debug/net8.0/ref/ModernDotNetApi.Domain.dll
